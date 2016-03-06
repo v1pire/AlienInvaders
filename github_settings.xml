@@ -1,0 +1,6 @@
+<application>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="v1pire" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>

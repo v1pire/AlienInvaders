@@ -10,6 +10,10 @@
           <option name="url" value="git@github.com:v1pire/AlienInvaders.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Stallker2003/AlienInvaders.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Java\AlienInvaders-master" />
